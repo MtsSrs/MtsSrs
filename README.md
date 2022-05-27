@@ -1,8 +1,8 @@
 ## Hello There!
 <div align="center">
   <a href="https://github.com/MtsSrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtsSrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtsSrs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtsSrs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtsSrs&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mts-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
           
  
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Mts-pic" height="150" style="border-radius:50px;" src="https://www.cnet.com/a/img/resize/3c9c9cbbb97a9d87cb6aa8cdd12f979a1b760de0/2021/04/28/7c6fa5dc-4525-4c45-9026-576838c4e4fb/ultimateblackholekurzgesagt.jpg?auto=webp&fit=crop&height=675&width=1200">
 </div>
   
   ##
@@ -25,7 +25,5 @@
 
   <a href = "mailto:matheus.1503@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-soares-145822227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MtsSrs/MtsSrs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
