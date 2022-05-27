@@ -1,4 +1,6 @@
-## Hello There!
+## Hello there, Welcome!
+- Matheus Here, just doing some coding stuff and trying to complete my course of Software Engineering  <img align="center" alt="Mts-pic" height="70" style="border-radius:50px;" src="https://thumbs.gfycat.com/SafeBlackFluke.webp">
+
 <div align="center">
   <a href="https://github.com/MtsSrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtsSrs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -12,10 +14,7 @@
   <img align="center" alt="Mts-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mts-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Mts-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
- 
- 
-  <img align="right" alt="Mts-pic" height="150" style="border-radius:50px;" src="https://www.cnet.com/a/img/resize/3c9c9cbbb97a9d87cb6aa8cdd12f979a1b760de0/2021/04/28/7c6fa5dc-4525-4c45-9026-576838c4e4fb/ultimateblackholekurzgesagt.jpg?auto=webp&fit=crop&height=675&width=1200">
+  <img align="right" alt="Mts-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/experience-ro/images/e/ea/Dark_Lord.gif/revision/latest?cb=20171107123447">
 </div>
   
   ##
