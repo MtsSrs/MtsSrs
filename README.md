@@ -1,5 +1,5 @@
 ## Hello there, Welcome!
-- Matheus Here, just doing some coding stuff and trying to complete my course of Software Engineering  <img align="center" alt="Mts-pic" height="70" style="border-radius:50px;" src="https://thumbs.gfycat.com/SafeBlackFluke.webp">
+- Matheus Here, just doing some coding stuff and trying to complete my course of Software Engineering  <img align="right" alt="Mts-pic" height="200" style="border-radius:2000px;" src="https://file5s.ratemyserver.net/mobs/2022.gif">
 
 <div align="center">
   <a href="https://github.com/MtsSrs">
